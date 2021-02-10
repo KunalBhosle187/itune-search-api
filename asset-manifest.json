@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/itune-search-api/static/css/main.defa3f1d.chunk.css",
+    "main.js": "/itune-search-api/static/js/main.ee7d11f8.chunk.js",
+    "main.js.map": "/itune-search-api/static/js/main.ee7d11f8.chunk.js.map",
+    "runtime-main.js": "/itune-search-api/static/js/runtime-main.b198d4c7.js",
+    "runtime-main.js.map": "/itune-search-api/static/js/runtime-main.b198d4c7.js.map",
+    "static/js/2.d46ddae6.chunk.js": "/itune-search-api/static/js/2.d46ddae6.chunk.js",
+    "static/js/2.d46ddae6.chunk.js.map": "/itune-search-api/static/js/2.d46ddae6.chunk.js.map",
+    "index.html": "/itune-search-api/index.html",
+    "static/css/main.defa3f1d.chunk.css.map": "/itune-search-api/static/css/main.defa3f1d.chunk.css.map",
+    "static/js/2.d46ddae6.chunk.js.LICENSE.txt": "/itune-search-api/static/js/2.d46ddae6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b198d4c7.js",
+    "static/js/2.d46ddae6.chunk.js",
+    "static/css/main.defa3f1d.chunk.css",
+    "static/js/main.ee7d11f8.chunk.js"
+  ]
+}
